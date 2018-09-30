@@ -18,7 +18,7 @@
                                 <PersistentState>
                                   <option name="values">
                                     <map>
-                                      <entry key="url" value="jar:file:/private/var/folders/fm/30jjslk56cv8zwf41sc_mng80000gp/T/AppTranslocation/2D3F32CD-81CF-4E9A-93BE-BC475F133305/d/Android%20Studio%203.2%20Preview.app/Contents/plugins/android/lib/android.jar!/images/material_design_icons/action/ic_search_black_24dp.xml" />
+                                      <entry key="url" value="jar:file:/private/var/folders/fm/30jjslk56cv8zwf41sc_mng80000gp/T/AppTranslocation/2D3F32CD-81CF-4E9A-93BE-BC475F133305/d/Android%20Studio%203.2%20Preview.app/Contents/plugins/android/lib/android.jar!/images/material_design_icons/maps/ic_directions_bus_black_24dp.xml" />
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -28,7 +28,7 @@
                         </option>
                         <option name="values">
                           <map>
-                            <entry key="outputName" value="ic_search" />
+                            <entry key="outputName" value="ic_launcher" />
                             <entry key="sourceFile" value="$USER_HOME$/Downloads/bus.svg" />
                           </map>
                         </option>
